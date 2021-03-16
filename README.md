@@ -25,4 +25,4 @@ About project &amp; project status
 
 
 # About the project
-This project has been created out of the need for development of content that has been abandoned or ignored by TrinityCore also to stop people from paying for cores with bugs & licensing systems and trojan like monitoring systems due to paranoid developers.
+This project has been created out of the need for development of content that has been abandoned or ignored by TrinityCore also to stop people from paying for cores with bugs, licensing systems and trojan like monitoring systems due to paranoid developers.
