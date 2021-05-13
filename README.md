@@ -4,13 +4,9 @@ About project &amp; project status
 # Legion: (In development Phase 2) (New core V3 comming soon)
 
 #Done:-
-- Draenor spawned with Mobs & NPCs
-- Broken Isles Mostly Spawned With Mobs & NPCs
-- Dalaran Broken Isles spawned NPC's & Gameobjects
-- Pandaria spawned with Mobs & NPCs
-- Cherry picked DB fixes from TrinityCore Master branch
+- Cleaned up DB errors logs due to spawndifficulties (commit to come)
 
-# Battle For Azeroth: (In development Phase 1) (New database comming late april early may)
+# Battle For Azeroth: (In development Phase 1) (On Hold)
 
 #Done:-
 - cherry picked DB fixes from TrinityCore Master branch
