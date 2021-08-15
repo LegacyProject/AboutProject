@@ -16,9 +16,9 @@ If you are interested in developing any of the branches please fork a copy of th
 
 # Shadowlands: (In development Phase 1) (New database comming soon)
 #Done:-
-- Cleaned up DB errors logs due to spawndifficulties (commit to come)
+- Cleaned up DB errors logs due to spawndifficulties
 - Pulled updates from trinitycore master
-- Fixed errors due to creature template faction not being set (commit to come)
+- Fixed errors due to creature template faction not being set
 
 
 # About the project
