@@ -4,24 +4,27 @@ About project &amp; project status
 # A NOTE FROM THE DEV
 If you are interested in developing any of the branches please fork a copy of the repo and start working then create PR. This project is open to the community. Please no hack fixes, clean code and clean sql.
 
-# Legion: (In development Phase 2) (New core V3 comming soon)
+# Questions & Answers
+```shell
+Question: How up to date with Trinitycore master is legion?
+Answer: Check the 7.3.5v2 branch
 
-#Done:-
-- Cleaned up DB errors logs due to spawndifficulties (commit to come)
+Question: How far will this project go?
+Answer: Who knows at this point
 
-# Battle For Azeroth: (In development Phase 1) (On Hold)
+Question: Can i work on this project?
+Answer: if you have worked on TrinityCore before and can do clean work. Yes you can. Just fork the source and pick a issue to fix.
 
-#Done:-
-- cherry picked DB fixes from TrinityCore Master branch
+Question: Will battlepay be added to the source?
+Answer: At this point it is possible.
 
-# Shadowlands: (In development Phase 1) (New database comming soon)
-#Done:-
-- Cleaned up DB errors logs due to spawndifficulties
-- Pulled updates from trinitycore master
-- Fixed errors due to creature template faction not being set
+Question: By the looks of the commit history you have forked it from another developer?
+Answer: Yes another developer by the name ReyDonovan did work on it but has since stopped and removed his fork. I have just continued it.
 
-
+```
 # About the project
-This project has been created out of the need for development of content that has been abandoned or ignored by TrinityCore also to stop people from paying for cores with bugs, licensing systems and trojan like monitoring systems due to paranoid developers.
+```shell
+This project has been created out of the need for leagacy servers due to the current state of retail and to preserve world of warcraft history
+```
 
 
